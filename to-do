@@ -1,0 +1,5 @@
+# to-do: co2light
+
+- find out device numbers dynamically
+- make compensation with temperature and relative humidity optional
+- test with different sensors, other than sgp40 and bme280
