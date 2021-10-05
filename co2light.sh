@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: GPL-2.0
 
 bme=/sys/bus/iio/devices/iio:device0
 sgp=/sys/bus/iio/devices/iio:device1
