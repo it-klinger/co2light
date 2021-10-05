@@ -1,5 +1,6 @@
 #!/bin/sh
 # SPDX-License-Identifier: GPL-2.0
+# Author: Andreas Klinger <ak@it-klinger.de>
 
 bme=/sys/bus/iio/devices/iio:device0
 sgp=/sys/bus/iio/devices/iio:device1
