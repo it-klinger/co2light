@@ -1,5 +1,7 @@
 # co2light
 
+Show leds (such as traffic lights) depending on air quality (emulated co2-value)
+
 Measuring the air quality on Linux with a chemical sensor (e. g. sgp40), 
 applying compensation values from temperature and relative humidity sensor (e. g. bme280) and 
 set leds appropriately to red, orange or green.
